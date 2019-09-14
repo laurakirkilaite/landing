@@ -1,0 +1,58 @@
+/*comment no one will see*/
+body{
+	background-color: rgb(245, 245, 245);
+	color: white;
+	font-size: 20px;
+	background-image: url("https://images.unsplash.com/photo-1568387472059-46787e6078ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+
+
+}
+
+		#banner{
+			text-align: center;
+			text-shadow: 1px 1px 5px purple;
+			background-image: url("https://images.unsplash.com/photo-1568387472059-46787e6078ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+		}
+
+		#headline{
+			color: white
+			text-shadow: 1px 1px 5px purple;
+		}
+
+		#formal {
+			text-align: center;
+			text-shadow: 1px 1px 5px purple;
+
+		}
+		#formal2{
+			text-align: center;
+			text-shadow: 1px 1px 5px purple;
+		}
+
+		#fancy {
+			text-align: center;
+			text-shadow: 1px 1px 5px purple;
+		}
+
+		#footer {
+			text-align: center
+			content: center;
+			padding: 20;
+			size: 50
+
+			}
+		
+
+p {
+	font-family: 'Roboto' , sans-serif;
+	font-weight: 300;
+}
+h1 {
+	font-family: 'Shadows Into Light', cursive;
+
+}
+h2 {
+	font-family: cursive;
+
+footer 
+}
